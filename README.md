@@ -1,5 +1,5 @@
 # Oxford-Dictionary
-This code if run allows you to look up any word you want that is in the Oxford Dictionary. I did this by first importing the `requests`, `dotnev`,  and `os` librarys into my python code. 
+This code if run allows you to look up any word you want that is in the Oxford Dictionary. I did this by first importing the `requests`, `dotnev`,  and `os` libraries into my python code. 
 
 
 ```
